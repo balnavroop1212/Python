@@ -6,4 +6,5 @@ project 4 is a simple game of treasure island<br>
 project 5 is to randomly get a choice from list<br>
 project 6 is a game based on rock paper and scissors by using random module<br>
 project 7 is just a simple project based on taking input from user and find max value out of it without using max function<br>
-project 8 is a random password generator, it could be used to create strong password without relevance to personal information
+project 8 is a random password generator, it could be used to create strong password without relevance to personal information<br>
+PROJECT 9 is a hangman game with improved user interface and interesting new word list
