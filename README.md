@@ -9,4 +9,5 @@ project 7 is just a simple project based on taking input from user and find max 
 project 8 is a random password generator, it could be used to create strong password without relevance to personal information<br>
 PROJECT 9 is a hangman game with improved user interface and interesting new word list<br>
 project 10 a program to encode and decode a text<br>
-project 11 is a blind auction program where bidders are not disclosed
+project 11 is a blind auction program where bidders are not disclosed<br>
+project 12 is a calculator program which carry on calculation with result of previous calculation
