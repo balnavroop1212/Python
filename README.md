@@ -12,3 +12,4 @@ project 10 a program to encode and decode a text<br>
 project 11 is a blind auction program where bidders are not disclosed<br>
 project 12 is a calculator program which carry on calculation with result of previous calculation<br>
 project 13 is a Blackjack game with all set of rules as it is in real world, it is one of the great projects in this repo
+project 14 is number guessing game with two different modes<br>
