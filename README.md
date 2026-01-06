@@ -14,3 +14,4 @@ project 12 is a calculator program which carry on calculation with result of pre
 project 13 is a Blackjack game with all set of rules as it is in real world, it is one of the great projects in this repo
 project 14 is number guessing game with two different modes<br>
 project 15 this code creates a higher lower game which takes geuess from user that from 2 options which has more followers on instagram, the game data is pre loaded in the project<br>
+project 16 is a fully functional working model of a coffe machine, which show reports of resourses available and profit made till time<br>
